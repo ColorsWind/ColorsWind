@@ -13,7 +13,7 @@
 | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | ------- |
 | [Scene-OpenGL-CPP](https://github.com/ColorsWind/Scene-OpenGL-CPP)<br/>![GitHub last commit](https://img.shields.io/github/last-commit/ColorsWind/Scene-OpenGL-CPP?color=brightgreen)<br/>![scene-screenshot](project.assets/Scene-OpenGL-CPP.png) | C++, OpenGL, GLSL                           | A dynamic scene with simple lighting and materials based on OpenGL (cpp bind). | 2021-10 |
 | [Animation-LWJGL](https://github.com/ColorsWind/Animation-LWJGL)<br>![GitHub last commit](https://img.shields.io/github/last-commit/ColorsWind/Scene-OpenGL-CPP?color=brightgreen)<br/>![](project.assets/Animation-LWJGL.png) | LWJGL, Kotlin, Game Engine                  | Simple animation rendering with an interactive edit menu by LWJGL. | 2021-11 |
-| [iTinit](https://github.com/ColorsWind/iTint)<br/>![GitHub last commit](https://img.shields.io/github/last-commit/ColorsWind/iTint?color=green)<br/>![](project.assets\ITint.png) | Python, PySide2, Octree, Color Quantization | A theme color extraction and screen color picker widget.     | 2021-12 |
+| [iTinit](https://github.com/ColorsWind/iTint)<br/>![GitHub last commit](https://img.shields.io/github/last-commit/ColorsWind/iTint?color=green)<br/>![](project.assets/ITint.png) | Python, PySide2, Octree, Color Quantization | A theme color extraction and screen color picker widget.     | 2021-12 |
 
 ## 2021 H1
 
